@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingQuantity">
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Entrez un titre pour le crime</string>
+    <string name="crime_title_label">Titre</string>
+    <string name="crime_details_label">Détails</string>
+    <string name="date_picker_title">Date du Crime</string>
+    <string name="crime_solved_label">Résolue</string>
+    <string name="new_crime">Nouveau Crime</string>
+    <string name="show_subtitle">Afficher le Sous-titre</string>
+    <string name="hide_subtitle">Masquer le Sous-titre</string>
+    <string name="crime_suspect_text">Choisissez Suspect</string>
+    <string name="crime_report_text">Envoyer un Rapport de Crime</string>
+    <string name="crime_report">%1$s!
+        Le crime a été découvert le %2$s. %3$s, et %4$s
+    </string>
+    <string name="crime_report_solved">L\'affaire est Résolue</string>
+    <string name="crime_report_unsolved">L\'affaire n\'est pas Résolue</string>
+    <string name="crime_report_no_suspect">Il n\'y a Pas de Suspect</string>
+    <string name="crime_report_suspect">Le Suspect est %s.</string>
+    <string name="crime_report_subject">Rapport de crime CriminalIntent</string>
+    <string name="send_report">Envoyer le rapport de crime via</string>
+    <string name="time_picker_title">Le Temps du Crime</string>
+    <string name="default_text_timeCrime">Sélectionnez l\'heure du Crime</string>
+    <string name="delete_crime">Supprimer</string>
+    <string name="no_crimes_button">Créer</string>
+    <string name="no_crimes_text">Il n\'y a Pas de Crimes</string>
+    <string name="crime_no_suspects">Il n\'y a Pas de Suspect pour l\'instant</string>
+    <string name="button_to_start">Premier Crime</string>
+    <string name="button_to_last">Dernier Crime</string>
+    <string name="crime_time_textview">Le Temps du Crime</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d criminalité</item>
+        <item quantity="other">%1$d crimes</item>
+    </plurals>
+
+</resources>

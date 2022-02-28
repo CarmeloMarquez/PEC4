@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IES/IES_Virrey_Morcillo_21_22/2DAM/UT/UT3_DESARROLLO_APPS_MOVILES/Codigo/BNR_CASA/CriminalIntent/Chapter17/app/src/main/res/layout/activity_twopane.xml" value="0.25416666666666665" />
+        <entry key="..\:/Proyectos 2DAM/Android Studio Proyects/PEC4_Carmelo/app/src/main/res/layout/activity_crime_pager.xml" value="0.20416666666666666" />
+        <entry key="..\:/Proyectos 2DAM/Android Studio Proyects/PEC4_Carmelo/app/src/main/res/layout/activity_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Proyectos 2DAM/Android Studio Proyects/PEC4_Carmelo/app/src/main/res/layout/dialog_date.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos 2DAM/Android Studio Proyects/PEC4_Carmelo/app/src/main/res/layout/dialog_time.xml" value="0.33" />
+        <entry key="..\:/Proyectos 2DAM/Android Studio Proyects/PEC4_Carmelo/app/src/main/res/layout/fragment_crime.xml" value="0.33" />
+        <entry key="..\:/Proyectos 2DAM/Android Studio Proyects/PEC4_Carmelo/app/src/main/res/layout/fragment_crime_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos 2DAM/Android Studio Proyects/PEC4_Carmelo/app/src/main/res/menu/activity_crime_pager.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos 2DAM/Android Studio Proyects/PEC4_Carmelo/app/src/main/res/menu/fragment_crime_list.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
